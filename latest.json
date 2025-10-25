@@ -1,0 +1,3206 @@
+{
+  "gameweek": 9,
+  "source_dir": "upstream/data/2025-2026/By Gameweek/GW9",
+  "snapshot": [
+    {
+      "id": 474,
+      "name": "Haaland",
+      "team": 43,
+      "pos": 4,
+      "price": 14.7,
+      "proj": 7.76
+    },
+    {
+      "id": 5,
+      "name": "Gabriel",
+      "team": 3,
+      "pos": 2,
+      "price": 6.4,
+      "proj": 6.472079207920792
+    },
+    {
+      "id": 235,
+      "name": "James",
+      "team": 8,
+      "pos": 2,
+      "price": 5.5,
+      "proj": 6.152079207920792
+    },
+    {
+      "id": 451,
+      "name": "Matheus N.",
+      "team": 43,
+      "pos": 2,
+      "price": 5.3,
+      "proj": 5.992079207920792
+    },
+    {
+      "id": 19,
+      "name": "Rice",
+      "team": 3,
+      "pos": 3,
+      "price": 6.6,
+      "proj": 5.638019801980199
+    },
+    {
+      "id": 632,
+      "name": "Mukiele",
+      "team": 56,
+      "pos": 2,
+      "price": 4.1,
+      "proj": 5.592079207920793
+    },
+    {
+      "id": 130,
+      "name": "Semenyo",
+      "team": 91,
+      "pos": 3,
+      "price": 8.1,
+      "proj": 5.5580198019801985
+    },
+    {
+      "id": 7,
+      "name": "J.Timber",
+      "team": 3,
+      "pos": 2,
+      "price": 6.0,
+      "proj": 5.432079207920792
+    },
+    {
+      "id": 224,
+      "name": "Welbeck",
+      "team": 36,
+      "pos": 4,
+      "price": 6.3,
+      "proj": 5.36
+    },
+    {
+      "id": 377,
+      "name": "Aaronson",
+      "team": 2,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 4.856718954248366
+    },
+    {
+      "id": 375,
+      "name": "Rodon",
+      "team": 2,
+      "pos": 2,
+      "price": 4.1,
+      "proj": 4.80279754601227
+    },
+    {
+      "id": 393,
+      "name": "Longstaff",
+      "team": 2,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 4.802699386503068
+    },
+    {
+      "id": 268,
+      "name": "Mu\u00f1oz",
+      "team": 31,
+      "pos": 2,
+      "price": 5.6,
+      "proj": 4.792079207920792
+    },
+    {
+      "id": 455,
+      "name": "O\u2019Reilly",
+      "team": 43,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 4.792079207920792
+    },
+    {
+      "id": 200,
+      "name": "Van Hecke",
+      "team": 36,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 4.792079207920792
+    },
+    {
+      "id": 188,
+      "name": "Thiago",
+      "team": 94,
+      "pos": 4,
+      "price": 6.1,
+      "proj": 4.64
+    },
+    {
+      "id": 553,
+      "name": "Woltemade",
+      "team": 4,
+      "pos": 4,
+      "price": 7.4,
+      "proj": 4.5600000000000005
+    },
+    {
+      "id": 452,
+      "name": "R\u00faben",
+      "team": 43,
+      "pos": 2,
+      "price": 5.5,
+      "proj": 4.552079207920793
+    },
+    {
+      "id": 311,
+      "name": "Keane",
+      "team": 11,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 4.392079207920792
+    },
+    {
+      "id": 243,
+      "name": "Acheampong",
+      "team": 8,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 4.392079207920792
+    },
+    {
+      "id": 1,
+      "name": "Raya",
+      "team": 3,
+      "pos": 1,
+      "price": 5.7,
+      "proj": 4.392079207920792
+    },
+    {
+      "id": 14,
+      "name": "Saka",
+      "team": 3,
+      "pos": 3,
+      "price": 10.0,
+      "proj": 4.358019801980198
+    },
+    {
+      "id": 234,
+      "name": "Cucurella",
+      "team": 8,
+      "pos": 2,
+      "price": 6.1,
+      "proj": 4.232079207920792
+    },
+    {
+      "id": 629,
+      "name": "Roefs",
+      "team": 56,
+      "pos": 1,
+      "price": 4.6,
+      "proj": 4.232079207920792
+    },
+    {
+      "id": 538,
+      "name": "Bruno G.",
+      "team": 4,
+      "pos": 3,
+      "price": 6.5,
+      "proj": 4.198019801980198
+    },
+    {
+      "id": 278,
+      "name": "Sarr",
+      "team": 31,
+      "pos": 3,
+      "price": 6.5,
+      "proj": 4.198019801980198
+    },
+    {
+      "id": 294,
+      "name": "Mateta",
+      "team": 31,
+      "pos": 4,
+      "price": 7.6,
+      "proj": 4.16
+    },
+    {
+      "id": 156,
+      "name": "Kelleher",
+      "team": 94,
+      "pos": 1,
+      "price": 4.5,
+      "proj": 4.152079207920792
+    },
+    {
+      "id": 6,
+      "name": "Calafiori",
+      "team": 3,
+      "pos": 2,
+      "price": 5.8,
+      "proj": 4.152079207920792
+    },
+    {
+      "id": 685,
+      "name": "Saliba",
+      "team": 3,
+      "pos": 2,
+      "price": 6.0,
+      "proj": 4.152079207920792
+    },
+    {
+      "id": 420,
+      "name": "Gakpo",
+      "team": 14,
+      "pos": 3,
+      "price": 7.5,
+      "proj": 4.038019801980198
+    },
+    {
+      "id": 18,
+      "name": "Trossard",
+      "team": 3,
+      "pos": 3,
+      "price": 6.9,
+      "proj": 4.038019801980198
+    },
+    {
+      "id": 447,
+      "name": "Gvardiol",
+      "team": 43,
+      "pos": 2,
+      "price": 5.9,
+      "proj": 3.992079207920792
+    },
+    {
+      "id": 595,
+      "name": "Hume",
+      "team": 56,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 3.992079207920792
+    },
+    {
+      "id": 475,
+      "name": "Donnarumma",
+      "team": 43,
+      "pos": 1,
+      "price": 5.7,
+      "proj": 3.992079207920792
+    },
+    {
+      "id": 246,
+      "name": "Neto",
+      "team": 8,
+      "pos": 3,
+      "price": 7.0,
+      "proj": 3.7980198019801983
+    },
+    {
+      "id": 526,
+      "name": "Burn",
+      "team": 4,
+      "pos": 2,
+      "price": 5.1,
+      "proj": 3.7520792079207927
+    },
+    {
+      "id": 701,
+      "name": "Bowen",
+      "team": 21,
+      "pos": 4,
+      "price": 7.8,
+      "proj": 3.68
+    },
+    {
+      "id": 671,
+      "name": "J.Palhinha",
+      "team": 6,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 3.638019801980198
+    },
+    {
+      "id": 516,
+      "name": "\u0160e\u0161ko",
+      "team": 1,
+      "pos": 4,
+      "price": 7.3,
+      "proj": 3.6
+    },
+    {
+      "id": 272,
+      "name": "Gu\u00e9hi",
+      "team": 31,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 3.5920792079207926
+    },
+    {
+      "id": 489,
+      "name": "Dalot",
+      "team": 1,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 3.5920792079207926
+    },
+    {
+      "id": 718,
+      "name": "S.Bueno",
+      "team": 39,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 3.5920792079207926
+    },
+    {
+      "id": 551,
+      "name": "Thiaw",
+      "team": 4,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 3.5920792079207926
+    },
+    {
+      "id": 479,
+      "name": "Mbeumo",
+      "team": 1,
+      "pos": 3,
+      "price": 8.0,
+      "proj": 3.5580198019801985
+    },
+    {
+      "id": 520,
+      "name": "Pope",
+      "team": 4,
+      "pos": 1,
+      "price": 5.2,
+      "proj": 3.4320792079207925
+    },
+    {
+      "id": 248,
+      "name": "Est\u00eav\u00e3o",
+      "team": 8,
+      "pos": 3,
+      "price": 6.5,
+      "proj": 3.3980198019801984
+    },
+    {
+      "id": 656,
+      "name": "Bentancur",
+      "team": 6,
+      "pos": 3,
+      "price": 5.3,
+      "proj": 3.3980198019801984
+    },
+    {
+      "id": 485,
+      "name": "De Ligt",
+      "team": 1,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 3.3520792079207924
+    },
+    {
+      "id": 165,
+      "name": "Kayode",
+      "team": 94,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 3.3520792079207924
+    },
+    {
+      "id": 53,
+      "name": "Buend\u00eda",
+      "team": 7,
+      "pos": 3,
+      "price": 5.3,
+      "proj": 3.2380198019801982
+    },
+    {
+      "id": 29,
+      "name": "Eze",
+      "team": 3,
+      "pos": 3,
+      "price": 7.6,
+      "proj": 3.2380198019801982
+    },
+    {
+      "id": 148,
+      "name": "Kroupi.Jr",
+      "team": 91,
+      "pos": 4,
+      "price": 4.5,
+      "proj": 3.2
+    },
+    {
+      "id": 161,
+      "name": "Collins",
+      "team": 94,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 3.1920792079207922
+    },
+    {
+      "id": 195,
+      "name": "De Cuyper",
+      "team": 36,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 3.1920792079207922
+    },
+    {
+      "id": 517,
+      "name": "Lammens",
+      "team": 1,
+      "pos": 1,
+      "price": 5.0,
+      "proj": 3.1920792079207922
+    },
+    {
+      "id": 525,
+      "name": "Botman",
+      "team": 4,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 3.1920792079207922
+    },
+    {
+      "id": 594,
+      "name": "Ballard",
+      "team": 56,
+      "pos": 2,
+      "price": 4.6,
+      "proj": 3.1920792079207922
+    },
+    {
+      "id": 251,
+      "name": "Caicedo",
+      "team": 8,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 3.1580198019801986
+    },
+    {
+      "id": 315,
+      "name": "Ndiaye",
+      "team": 11,
+      "pos": 3,
+      "price": 6.5,
+      "proj": 3.1580198019801986
+    },
+    {
+      "id": 628,
+      "name": "Xhaka",
+      "team": 56,
+      "pos": 3,
+      "price": 5.1,
+      "proj": 3.1580198019801986
+    },
+    {
+      "id": 715,
+      "name": "H.Bueno",
+      "team": 39,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 3.032079207920792
+    },
+    {
+      "id": 410,
+      "name": "Konat\u00e9",
+      "team": 14,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 3.032079207920792
+    },
+    {
+      "id": 464,
+      "name": "Doku",
+      "team": 43,
+      "pos": 3,
+      "price": 6.6,
+      "proj": 2.9980198019801985
+    },
+    {
+      "id": 330,
+      "name": "Grealish",
+      "team": 11,
+      "pos": 3,
+      "price": 6.9,
+      "proj": 2.9980198019801985
+    },
+    {
+      "id": 653,
+      "name": "Kudus",
+      "team": 6,
+      "pos": 3,
+      "price": 6.8,
+      "proj": 2.9980198019801985
+    },
+    {
+      "id": 55,
+      "name": "Malen",
+      "team": 7,
+      "pos": 3,
+      "price": 5.1,
+      "proj": 2.9980198019801985
+    },
+    {
+      "id": 429,
+      "name": "Szoboszlai",
+      "team": 14,
+      "pos": 3,
+      "price": 6.5,
+      "proj": 2.9980198019801985
+    },
+    {
+      "id": 111,
+      "name": "Ugochukwu",
+      "team": 90,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 2.9980198019801985
+    },
+    {
+      "id": 307,
+      "name": "Tarkowski",
+      "team": 11,
+      "pos": 2,
+      "price": 5.5,
+      "proj": 2.952079207920792
+    },
+    {
+      "id": 247,
+      "name": "Enzo",
+      "team": 8,
+      "pos": 3,
+      "price": 6.7,
+      "proj": 2.8380198019801983
+    },
+    {
+      "id": 460,
+      "name": "Savinho",
+      "team": 43,
+      "pos": 3,
+      "price": 6.9,
+      "proj": 2.8380198019801983
+    },
+    {
+      "id": 319,
+      "name": "Garner",
+      "team": 11,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 2.8380198019801983
+    },
+    {
+      "id": 220,
+      "name": "Wieffer",
+      "team": 36,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 2.8380198019801983
+    },
+    {
+      "id": 168,
+      "name": "Van den Berg",
+      "team": 94,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 2.792079207920792
+    },
+    {
+      "id": 309,
+      "name": "O'Brien",
+      "team": 11,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 2.792079207920792
+    },
+    {
+      "id": 79,
+      "name": "Walker",
+      "team": 90,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 2.792079207920792
+    },
+    {
+      "id": 230,
+      "name": "S\u00e1nchez",
+      "team": 8,
+      "pos": 1,
+      "price": 4.9,
+      "proj": 2.792079207920792
+    },
+    {
+      "id": 273,
+      "name": "Richards",
+      "team": 31,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 2.792079207920792
+    },
+    {
+      "id": 409,
+      "name": "Virgil",
+      "team": 14,
+      "pos": 2,
+      "price": 6.0,
+      "proj": 2.792079207920792
+    },
+    {
+      "id": 427,
+      "name": "Chiesa",
+      "team": 14,
+      "pos": 3,
+      "price": 6.4,
+      "proj": 2.7580198019801987
+    },
+    {
+      "id": 180,
+      "name": "Jensen",
+      "team": 94,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 2.7580198019801987
+    },
+    {
+      "id": 351,
+      "name": "Sessegnon",
+      "team": 54,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 2.7580198019801987
+    },
+    {
+      "id": 49,
+      "name": "Rogers",
+      "team": 7,
+      "pos": 3,
+      "price": 6.8,
+      "proj": 2.7580198019801987
+    },
+    {
+      "id": 730,
+      "name": "Munetsi",
+      "team": 39,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 2.7580198019801987
+    },
+    {
+      "id": 491,
+      "name": "Maguire",
+      "team": 1,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 2.712079207920792
+    },
+    {
+      "id": 449,
+      "name": "Ak\u00e9",
+      "team": 43,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 2.6320792079207918
+    },
+    {
+      "id": 303,
+      "name": "Pickford",
+      "team": 11,
+      "pos": 1,
+      "price": 5.5,
+      "proj": 2.6320792079207918
+    },
+    {
+      "id": 121,
+      "name": "Senesi",
+      "team": 91,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 2.6320792079207918
+    },
+    {
+      "id": 528,
+      "name": "Trippier",
+      "team": 4,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 2.6320792079207918
+    },
+    {
+      "id": 725,
+      "name": "Andr\u00e9",
+      "team": 39,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 24,
+      "name": "Zubimendi",
+      "team": 3,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 182,
+      "name": "Yarmoliuk",
+      "team": 94,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 207,
+      "name": "Georginio",
+      "team": 36,
+      "pos": 3,
+      "price": 5.7,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 431,
+      "name": "Gravenberch",
+      "team": 14,
+      "pos": 3,
+      "price": 5.7,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 20,
+      "name": "Merino",
+      "team": 3,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 113,
+      "name": "Florentino",
+      "team": 90,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 2.5980198019801986
+    },
+    {
+      "id": 492,
+      "name": "Shaw",
+      "team": 1,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 2.5520792079207926
+    },
+    {
+      "id": 83,
+      "name": "Hartman",
+      "team": 90,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 2.5520792079207926
+    },
+    {
+      "id": 369,
+      "name": "Bogle",
+      "team": 2,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 2.4927975460122695
+    },
+    {
+      "id": 707,
+      "name": "M.Fernandes",
+      "team": 21,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 2.490019801980198
+    },
+    {
+      "id": 174,
+      "name": "Schade",
+      "team": 94,
+      "pos": 3,
+      "price": 7.0,
+      "proj": 2.438019801980198
+    },
+    {
+      "id": 282,
+      "name": "Kamada",
+      "team": 31,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 2.438019801980198
+    },
+    {
+      "id": 493,
+      "name": "Yoro",
+      "team": 1,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 2.3920792079207924
+    },
+    {
+      "id": 198,
+      "name": "F.Kad\u0131o\u011flu",
+      "team": 36,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 2.3920792079207924
+    },
+    {
+      "id": 269,
+      "name": "Lacroix",
+      "team": 31,
+      "pos": 2,
+      "price": 5.1,
+      "proj": 2.3920792079207924
+    },
+    {
+      "id": 163,
+      "name": "Ajer",
+      "team": 94,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 2.3920792079207924
+    },
+    {
+      "id": 308,
+      "name": "Mykolenko",
+      "team": 11,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 2.3920792079207924
+    },
+    {
+      "id": 110,
+      "name": "D\u00fabravka",
+      "team": 90,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 2.3920792079207924
+    },
+    {
+      "id": 209,
+      "name": "Minteh",
+      "team": 36,
+      "pos": 3,
+      "price": 6.0,
+      "proj": 2.3580198019801983
+    },
+    {
+      "id": 503,
+      "name": "Mount",
+      "team": 1,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 2.2780198019801983
+    },
+    {
+      "id": 403,
+      "name": "Mamardashvili",
+      "team": 14,
+      "pos": 1,
+      "price": 4.3,
+      "proj": 2.2320792079207923
+    },
+    {
+      "id": 556,
+      "name": "Sels",
+      "team": 17,
+      "pos": 1,
+      "price": 4.8,
+      "proj": 2.2320792079207923
+    },
+    {
+      "id": 411,
+      "name": "Bradley",
+      "team": 14,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 2.2320792079207923
+    },
+    {
+      "id": 407,
+      "name": "Kerkez",
+      "team": 14,
+      "pos": 2,
+      "price": 5.8,
+      "proj": 2.2320792079207923
+    },
+    {
+      "id": 498,
+      "name": "B.Fernandes",
+      "team": 1,
+      "pos": 3,
+      "price": 8.9,
+      "proj": 2.198019801980198
+    },
+    {
+      "id": 741,
+      "name": "J.Arias",
+      "team": 39,
+      "pos": 3,
+      "price": 5.2,
+      "proj": 2.198019801980198
+    },
+    {
+      "id": 428,
+      "name": "Mac Allister",
+      "team": 14,
+      "pos": 3,
+      "price": 6.3,
+      "proj": 2.198019801980198
+    },
+    {
+      "id": 541,
+      "name": "Tonali",
+      "team": 4,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 2.198019801980198
+    },
+    {
+      "id": 417,
+      "name": "M.Salah",
+      "team": 14,
+      "pos": 3,
+      "price": 14.3,
+      "proj": 2.198019801980198
+    },
+    {
+      "id": 535,
+      "name": "Gordon",
+      "team": 4,
+      "pos": 3,
+      "price": 7.5,
+      "proj": 2.198019801980198
+    },
+    {
+      "id": 190,
+      "name": "Verbruggen",
+      "team": 36,
+      "pos": 1,
+      "price": 4.4,
+      "proj": 2.152079207920792
+    },
+    {
+      "id": 639,
+      "name": "Pedro Porro",
+      "team": 6,
+      "pos": 2,
+      "price": 5.6,
+      "proj": 2.152079207920792
+    },
+    {
+      "id": 123,
+      "name": "Truffert",
+      "team": 91,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 2.152079207920792
+    },
+    {
+      "id": 655,
+      "name": "Tel",
+      "team": 6,
+      "pos": 3,
+      "price": 6.3,
+      "proj": 2.038019801980198
+    },
+    {
+      "id": 540,
+      "name": "Joelinton",
+      "team": 4,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 2.038019801980198
+    },
+    {
+      "id": 459,
+      "name": "Foden",
+      "team": 43,
+      "pos": 3,
+      "price": 8.1,
+      "proj": 2.038019801980198
+    },
+    {
+      "id": 31,
+      "name": "Gy\u00f6keres",
+      "team": 3,
+      "pos": 4,
+      "price": 9.0,
+      "proj": 2.0
+    },
+    {
+      "id": 710,
+      "name": "Johnstone",
+      "team": 39,
+      "pos": 1,
+      "price": 4.5,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 9,
+      "name": "Lewis-Skelly",
+      "team": 3,
+      "pos": 2,
+      "price": 5.2,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 150,
+      "name": "Diakit\u00e9",
+      "team": 91,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 743,
+      "name": "Tchatchoua",
+      "team": 39,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 115,
+      "name": "Petrovi\u0107",
+      "team": 91,
+      "pos": 1,
+      "price": 4.5,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 270,
+      "name": "Mitchell",
+      "team": 31,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 265,
+      "name": "Henderson",
+      "team": 31,
+      "pos": 1,
+      "price": 5.0,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 196,
+      "name": "Dunk",
+      "team": 36,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 337,
+      "name": "Leno",
+      "team": 54,
+      "pos": 1,
+      "price": 5.0,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 342,
+      "name": "Castagne",
+      "team": 54,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.9920792079207923
+    },
+    {
+      "id": 679,
+      "name": "Diouf",
+      "team": 21,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.964077519379845
+    },
+    {
+      "id": 468,
+      "name": "N.Gonzalez",
+      "team": 43,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 1.9580198019801982
+    },
+    {
+      "id": 178,
+      "name": "Henderson",
+      "team": 94,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.9580198019801982
+    },
+    {
+      "id": 96,
+      "name": "Cullen",
+      "team": 90,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.9580198019801982
+    },
+    {
+      "id": 439,
+      "name": "Isak",
+      "team": 14,
+      "pos": 4,
+      "price": 10.5,
+      "proj": 1.92
+    },
+    {
+      "id": 236,
+      "name": "Chalobah",
+      "team": 8,
+      "pos": 2,
+      "price": 5.1,
+      "proj": 1.8320792079207922
+    },
+    {
+      "id": 263,
+      "name": "Hato",
+      "team": 8,
+      "pos": 2,
+      "price": 4.8,
+      "proj": 1.8320792079207922
+    },
+    {
+      "id": 125,
+      "name": "Hill",
+      "team": 91,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 1.8320792079207922
+    },
+    {
+      "id": 284,
+      "name": "Wharton",
+      "team": 31,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 471,
+      "name": "Reijnders",
+      "team": 43,
+      "pos": 3,
+      "price": 5.7,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 610,
+      "name": "E.Le F\u00e9e",
+      "team": 56,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 134,
+      "name": "Christie",
+      "team": 91,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 418,
+      "name": "Wirtz",
+      "team": 14,
+      "pos": 3,
+      "price": 8.1,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 571,
+      "name": "Anderson",
+      "team": 17,
+      "pos": 3,
+      "price": 5.3,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 728,
+      "name": "Gomes",
+      "team": 39,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 129,
+      "name": "Kluivert",
+      "team": 91,
+      "pos": 3,
+      "price": 7.0,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 214,
+      "name": "Ayari",
+      "team": 36,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 347,
+      "name": "Iwobi",
+      "team": 54,
+      "pos": 3,
+      "price": 6.5,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 318,
+      "name": "Gana",
+      "team": 11,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 1.798019801980198
+    },
+    {
+      "id": 162,
+      "name": "Lewis-Potter",
+      "team": 94,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 1.752079207920792
+    },
+    {
+      "id": 30,
+      "name": "Mosquera",
+      "team": 3,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 1.752079207920792
+    },
+    {
+      "id": 559,
+      "name": "Milenkovi\u0107",
+      "team": 17,
+      "pos": 2,
+      "price": 5.3,
+      "proj": 1.752079207920792
+    },
+    {
+      "id": 565,
+      "name": "Morato",
+      "team": 17,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.752079207920792
+    },
+    {
+      "id": 408,
+      "name": "Robertson",
+      "team": 14,
+      "pos": 2,
+      "price": 5.8,
+      "proj": 1.752079207920792
+    },
+    {
+      "id": 89,
+      "name": "Tuanzebe",
+      "team": 90,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.752079207920792
+    },
+    {
+      "id": 676,
+      "name": "Areola",
+      "team": 21,
+      "pos": 1,
+      "price": 4.3,
+      "proj": 1.670077519379845
+    },
+    {
+      "id": 430,
+      "name": "C.Jones",
+      "team": 14,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 1.6380198019801981
+    },
+    {
+      "id": 17,
+      "name": "Martinelli",
+      "team": 3,
+      "pos": 3,
+      "price": 6.9,
+      "proj": 1.6380198019801981
+    },
+    {
+      "id": 175,
+      "name": "Damsgaard",
+      "team": 94,
+      "pos": 3,
+      "price": 5.8,
+      "proj": 1.6380198019801981
+    },
+    {
+      "id": 569,
+      "name": "Gibbs-White",
+      "team": 17,
+      "pos": 3,
+      "price": 7.3,
+      "proj": 1.6380198019801981
+    },
+    {
+      "id": 56,
+      "name": "McGinn",
+      "team": 7,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 1.6380198019801981
+    },
+    {
+      "id": 360,
+      "name": "Ra\u00fal",
+      "team": 54,
+      "pos": 4,
+      "price": 6.2,
+      "proj": 1.6
+    },
+    {
+      "id": 258,
+      "name": "Jo\u00e3o Pedro",
+      "team": 8,
+      "pos": 4,
+      "price": 7.5,
+      "proj": 1.6
+    },
+    {
+      "id": 226,
+      "name": "Tzimas",
+      "team": 36,
+      "pos": 4,
+      "price": 5.3,
+      "proj": 1.6
+    },
+    {
+      "id": 344,
+      "name": "J.Cuenca",
+      "team": 54,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 2,
+      "name": "Arrizabalaga",
+      "team": 3,
+      "pos": 1,
+      "price": 4.3,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 11,
+      "name": "Clarke",
+      "team": 3,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 10,
+      "name": "White",
+      "team": 3,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 636,
+      "name": "Vicario",
+      "team": 6,
+      "pos": 1,
+      "price": 5.1,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 4,
+      "name": "Setford",
+      "team": 3,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 34,
+      "name": "Hincapie",
+      "team": 3,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 412,
+      "name": "Gomez",
+      "team": 14,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 405,
+      "name": "Woodman",
+      "team": 14,
+      "pos": 1,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 414,
+      "name": "Nallo",
+      "team": 14,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 415,
+      "name": "R.Williams",
+      "team": 14,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 454,
+      "name": "Lewis",
+      "team": 43,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 416,
+      "name": "Ramsay",
+      "team": 14,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 404,
+      "name": "P\u00e9csi",
+      "team": 14,
+      "pos": 1,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 13,
+      "name": "Nichols",
+      "team": 3,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.5920792079207922
+    },
+    {
+      "id": 381,
+      "name": "Ampadu",
+      "team": 2,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.5586993865030676
+    },
+    {
+      "id": 215,
+      "name": "Baleba",
+      "team": 36,
+      "pos": 3,
+      "price": 4.8,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 539,
+      "name": "J.Murphy",
+      "team": 4,
+      "pos": 3,
+      "price": 6.2,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 131,
+      "name": "Tavernier",
+      "team": 91,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 536,
+      "name": "Elanga",
+      "team": 4,
+      "pos": 3,
+      "price": 6.8,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 320,
+      "name": "Iroegbunam",
+      "team": 11,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 216,
+      "name": "Gomez",
+      "team": 36,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 469,
+      "name": "Bobb",
+      "team": 43,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 546,
+      "name": "L.Miley",
+      "team": 4,
+      "pos": 3,
+      "price": 4.4,
+      "proj": 1.558019801980198
+    },
+    {
+      "id": 397,
+      "name": "Okafor",
+      "team": 2,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 1.5363759398496244
+    },
+    {
+      "id": 681,
+      "name": "Kilman",
+      "team": 21,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.516077519379845
+    },
+    {
+      "id": 39,
+      "name": "Digne",
+      "team": 7,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.512079207920792
+    },
+    {
+      "id": 66,
+      "name": "Watkins",
+      "team": 7,
+      "pos": 4,
+      "price": 8.6,
+      "proj": 1.4400000000000002
+    },
+    {
+      "id": 343,
+      "name": "Diop",
+      "team": 54,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.4320792079207922
+    },
+    {
+      "id": 744,
+      "name": "Krej\u010d\u00ed",
+      "team": 39,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.4320792079207922
+    },
+    {
+      "id": 82,
+      "name": "Est\u00e8ve",
+      "team": 90,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 1.4320792079207922
+    },
+    {
+      "id": 564,
+      "name": "Jair Cunha",
+      "team": 17,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 1.4320792079207922
+    },
+    {
+      "id": 43,
+      "name": "Pau",
+      "team": 7,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 1.4320792079207922
+    },
+    {
+      "id": 353,
+      "name": "Berge",
+      "team": 54,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.3980198019801982
+    },
+    {
+      "id": 501,
+      "name": "Amad",
+      "team": 1,
+      "pos": 3,
+      "price": 6.3,
+      "proj": 1.3980198019801982
+    },
+    {
+      "id": 352,
+      "name": "Wilson",
+      "team": 54,
+      "pos": 3,
+      "price": 5.3,
+      "proj": 1.3980198019801982
+    },
+    {
+      "id": 616,
+      "name": "Talbi",
+      "team": 56,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.3980198019801982
+    },
+    {
+      "id": 358,
+      "name": "King",
+      "team": 54,
+      "pos": 3,
+      "price": 4.5,
+      "proj": 1.3980198019801982
+    },
+    {
+      "id": 210,
+      "name": "Gruda",
+      "team": 36,
+      "pos": 3,
+      "price": 5.4,
+      "proj": 1.3980198019801982
+    },
+    {
+      "id": 689,
+      "name": "L.Paquet\u00e1",
+      "team": 21,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 1.3855193798449612
+    },
+    {
+      "id": 327,
+      "name": "Beto",
+      "team": 11,
+      "pos": 4,
+      "price": 5.3,
+      "proj": 1.36
+    },
+    {
+      "id": 310,
+      "name": "Coleman",
+      "team": 11,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 1.352079207920792
+    },
+    {
+      "id": 242,
+      "name": "Tosin",
+      "team": 8,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.352079207920792
+    },
+    {
+      "id": 426,
+      "name": "Coppola",
+      "team": 36,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 1.352079207920792
+    },
+    {
+      "id": 396,
+      "name": "Calvert-Lewin",
+      "team": 2,
+      "pos": 4,
+      "price": 5.5,
+      "proj": 1.3480000000000003
+    },
+    {
+      "id": 537,
+      "name": "Barnes",
+      "team": 4,
+      "pos": 3,
+      "price": 6.4,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 317,
+      "name": "Alcaraz",
+      "team": 11,
+      "pos": 3,
+      "price": 5.2,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 253,
+      "name": "Lavia",
+      "team": 8,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 462,
+      "name": "Bernardo",
+      "team": 43,
+      "pos": 3,
+      "price": 6.3,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 262,
+      "name": "Garnacho",
+      "team": 8,
+      "pos": 3,
+      "price": 6.4,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 302,
+      "name": "Dewsbury-Hall",
+      "team": 11,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 137,
+      "name": "Scott",
+      "team": 91,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 132,
+      "name": "Adams",
+      "team": 91,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 1.238019801980198
+    },
+    {
+      "id": 374,
+      "name": "Gudmundsson",
+      "team": 2,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 1.2059449541284404
+    },
+    {
+      "id": 440,
+      "name": "Ekitik\u00e9",
+      "team": 14,
+      "pos": 4,
+      "price": 8.6,
+      "proj": 1.2000000000000002
+    },
+    {
+      "id": 736,
+      "name": "Strand Larsen",
+      "team": 39,
+      "pos": 4,
+      "price": 6.4,
+      "proj": 1.2000000000000002
+    },
+    {
+      "id": 295,
+      "name": "Nketiah",
+      "team": 31,
+      "pos": 4,
+      "price": 5.4,
+      "proj": 1.2000000000000002
+    },
+    {
+      "id": 314,
+      "name": "Welch",
+      "team": 11,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 304,
+      "name": "Travers",
+      "team": 11,
+      "pos": 1,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 331,
+      "name": "King",
+      "team": 11,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 533,
+      "name": "Pivas",
+      "team": 4,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 313,
+      "name": "Dixon",
+      "team": 11,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 521,
+      "name": "Gillespie",
+      "team": 4,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 332,
+      "name": "Aznou",
+      "team": 11,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 334,
+      "name": "Campbell",
+      "team": 11,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 524,
+      "name": "Sch\u00e4r",
+      "team": 4,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 305,
+      "name": "Tyrer",
+      "team": 11,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 341,
+      "name": "Bassey",
+      "team": 54,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 646,
+      "name": "Van de Ven",
+      "team": 6,
+      "pos": 2,
+      "price": 4.7,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 529,
+      "name": "Krafth",
+      "team": 4,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 588,
+      "name": "Savona",
+      "team": 17,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 240,
+      "name": "Fofana",
+      "team": 8,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 530,
+      "name": "Lascelles",
+      "team": 4,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 189,
+      "name": "Steele",
+      "team": 36,
+      "pos": 1,
+      "price": 4.3,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 550,
+      "name": "Ramsdale",
+      "team": 4,
+      "pos": 1,
+      "price": 4.8,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 445,
+      "name": "Bettinelli",
+      "team": 43,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 453,
+      "name": "Stones",
+      "team": 43,
+      "pos": 2,
+      "price": 5.5,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 194,
+      "name": "Boscagli",
+      "team": 36,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 446,
+      "name": "A\u00eft-Nouri",
+      "team": 43,
+      "pos": 2,
+      "price": 5.8,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 35,
+      "name": "Martinez",
+      "team": 7,
+      "pos": 1,
+      "price": 5.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 38,
+      "name": "Cash",
+      "team": 7,
+      "pos": 2,
+      "price": 4.6,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 40,
+      "name": "Konsa",
+      "team": 7,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 191,
+      "name": "McGill",
+      "team": 36,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 490,
+      "name": "Dorgu",
+      "team": 1,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 717,
+      "name": "R.Gomes",
+      "team": 39,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 714,
+      "name": "Doherty",
+      "team": 39,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 444,
+      "name": "Ortega Moreno",
+      "team": 43,
+      "pos": 1,
+      "price": 4.8,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 713,
+      "name": "Agbadou",
+      "team": 39,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 704,
+      "name": "Walker-Peters",
+      "team": 21,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 231,
+      "name": "J\u00f6rgensen",
+      "team": 8,
+      "pos": 1,
+      "price": 4.4,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 402,
+      "name": "Trafford",
+      "team": 43,
+      "pos": 1,
+      "price": 4.7,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 233,
+      "name": "Slonina",
+      "team": 8,
+      "pos": 1,
+      "price": 3.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 477,
+      "name": "Mfuni",
+      "team": 43,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 480,
+      "name": "Bayindir",
+      "team": 1,
+      "pos": 1,
+      "price": 4.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 531,
+      "name": "A.Murphy",
+      "team": 4,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 368,
+      "name": "Darlow",
+      "team": 2,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 205,
+      "name": "Tasker",
+      "team": 36,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 562,
+      "name": "N.Williams",
+      "team": 17,
+      "pos": 2,
+      "price": 4.8,
+      "proj": 1.1920792079207922
+    },
+    {
+      "id": 101,
+      "name": "Tchaouna",
+      "team": 90,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 441,
+      "name": "Ngumoha",
+      "team": 14,
+      "pos": 3,
+      "price": 4.5,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 299,
+      "name": "Yeremy",
+      "team": 31,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 432,
+      "name": "Endo",
+      "team": 14,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 91,
+      "name": "Anthony",
+      "team": 90,
+      "pos": 3,
+      "price": 5.7,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 499,
+      "name": "Cunha",
+      "team": 1,
+      "pos": 3,
+      "price": 7.9,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 22,
+      "name": "N\u00f8rgaard",
+      "team": 3,
+      "pos": 3,
+      "price": 5.3,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 23,
+      "name": "Nwaneri",
+      "team": 3,
+      "pos": 3,
+      "price": 5.2,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 155,
+      "name": "O.Dango",
+      "team": 94,
+      "pos": 3,
+      "price": 6.0,
+      "proj": 1.158019801980198
+    },
+    {
+      "id": 554,
+      "name": "Zinchenko",
+      "team": 17,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 1.1120792079207922
+    },
+    {
+      "id": 201,
+      "name": "Veltman",
+      "team": 36,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 1.1120792079207922
+    },
+    {
+      "id": 370,
+      "name": "Struijk",
+      "team": 2,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.1120792079207922
+    },
+    {
+      "id": 326,
+      "name": "Barry",
+      "team": 11,
+      "pos": 4,
+      "price": 5.7,
+      "proj": 1.04
+    },
+    {
+      "id": 548,
+      "name": "Osula",
+      "team": 4,
+      "pos": 4,
+      "price": 5.5,
+      "proj": 1.04
+    },
+    {
+      "id": 633,
+      "name": "Geertruida",
+      "team": 56,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.032079207920792
+    },
+    {
+      "id": 644,
+      "name": "Spence",
+      "team": 6,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 1.032079207920792
+    },
+    {
+      "id": 385,
+      "name": "Tanaka",
+      "team": 2,
+      "pos": 3,
+      "price": 4.8,
+      "proj": 1.019884892086331
+    },
+    {
+      "id": 60,
+      "name": "Kamara",
+      "team": 7,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 349,
+      "name": "Adama",
+      "team": 54,
+      "pos": 3,
+      "price": 5.2,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 504,
+      "name": "Casemiro",
+      "team": 1,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 664,
+      "name": "P.M.Sarr",
+      "team": 6,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 506,
+      "name": "Ugarte",
+      "team": 1,
+      "pos": 3,
+      "price": 4.8,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 615,
+      "name": "Sadiki",
+      "team": 56,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 217,
+      "name": "Milner",
+      "team": 36,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 255,
+      "name": "Andrey Santos",
+      "team": 8,
+      "pos": 3,
+      "price": 4.5,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 335,
+      "name": "Dibling",
+      "team": 11,
+      "pos": 3,
+      "price": 5.5,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 249,
+      "name": "Gittens",
+      "team": 8,
+      "pos": 3,
+      "price": 6.2,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 33,
+      "name": "Harriman-Annous",
+      "team": 3,
+      "pos": 3,
+      "price": 4.5,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 394,
+      "name": "Stach",
+      "team": 2,
+      "pos": 3,
+      "price": 5.1,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 149,
+      "name": "Gannon-Doak",
+      "team": 91,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 436,
+      "name": "Nyoni",
+      "team": 14,
+      "pos": 3,
+      "price": 4.3,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 32,
+      "name": "Dowman",
+      "team": 3,
+      "pos": 3,
+      "price": 4.4,
+      "proj": 0.998019801980198
+    },
+    {
+      "id": 560,
+      "name": "Murillo",
+      "team": 17,
+      "pos": 2,
+      "price": 5.3,
+      "proj": 0.9520792079207921
+    },
+    {
+      "id": 742,
+      "name": "M\u00f8ller Wolfe",
+      "team": 39,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.9520792079207921
+    },
+    {
+      "id": 164,
+      "name": "Henry",
+      "team": 94,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.9520792079207921
+    },
+    {
+      "id": 716,
+      "name": "Mosquera",
+      "team": 39,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.9520792079207921
+    },
+    {
+      "id": 720,
+      "name": "Hoever",
+      "team": 39,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.9520792079207921
+    },
+    {
+      "id": 719,
+      "name": "Toti",
+      "team": 39,
+      "pos": 2,
+      "price": 4.3,
+      "proj": 0.9520792079207921
+    },
+    {
+      "id": 355,
+      "name": "Luki\u0107",
+      "team": 54,
+      "pos": 3,
+      "price": 5.0,
+      "proj": 0.9180198019801982
+    },
+    {
+      "id": 371,
+      "name": "Bijol",
+      "team": 2,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 0.89079754601227
+    },
+    {
+      "id": 505,
+      "name": "Mainoo",
+      "team": 1,
+      "pos": 3,
+      "price": 4.8,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 348,
+      "name": "Smith Rowe",
+      "team": 54,
+      "pos": 3,
+      "price": 5.7,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 206,
+      "name": "Mitoma",
+      "team": 36,
+      "pos": 3,
+      "price": 6.3,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 354,
+      "name": "Cairney",
+      "team": 54,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 570,
+      "name": "Hudson-Odoi",
+      "team": 17,
+      "pos": 3,
+      "price": 5.9,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 364,
+      "name": "Kevin",
+      "team": 54,
+      "pos": 3,
+      "price": 6.0,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 582,
+      "name": "Ndoye",
+      "team": 17,
+      "pos": 3,
+      "price": 5.8,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 179,
+      "name": "Janelt",
+      "team": 94,
+      "pos": 3,
+      "price": 4.9,
+      "proj": 0.8380198019801981
+    },
+    {
+      "id": 261,
+      "name": "Marc Guiu",
+      "team": 8,
+      "pos": 4,
+      "price": 4.3,
+      "proj": 0.8
+    },
+    {
+      "id": 379,
+      "name": "Harrison",
+      "team": 2,
+      "pos": 3,
+      "price": 5.2,
+      "proj": 0.7998461538461538
+    },
+    {
+      "id": 78,
+      "name": "Roberts",
+      "team": 90,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 85,
+      "name": "Jordan",
+      "team": 90,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 238,
+      "name": "Gusto",
+      "team": 8,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 8,
+      "name": "Kiwior",
+      "team": 3,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 688,
+      "name": "Casey",
+      "team": 21,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 683,
+      "name": "N.Aguerd",
+      "team": 21,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 682,
+      "name": "Mavropanos",
+      "team": 21,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 484,
+      "name": "Mee",
+      "team": 1,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 77,
+      "name": "Green",
+      "team": 90,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 483,
+      "name": "Heaton",
+      "team": 1,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 482,
+      "name": "Harrison",
+      "team": 1,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 680,
+      "name": "Emerson",
+      "team": 21,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 481,
+      "name": "Onana",
+      "team": 1,
+      "pos": 1,
+      "price": 4.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 568,
+      "name": "Boly",
+      "team": 17,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 237,
+      "name": "Colwill",
+      "team": 8,
+      "pos": 2,
+      "price": 4.8,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 80,
+      "name": "Dodgson",
+      "team": 90,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 376,
+      "name": "Schmidt",
+      "team": 2,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 587,
+      "name": "John",
+      "team": 17,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 72,
+      "name": "Rowe",
+      "team": 7,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 197,
+      "name": "Estupi\u00f1an",
+      "team": 36,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 192,
+      "name": "Rushworth",
+      "team": 36,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 557,
+      "name": "C.Miguel",
+      "team": 17,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 558,
+      "name": "Turner",
+      "team": 17,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 37,
+      "name": "Marschall",
+      "team": 7,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 36,
+      "name": "Gauci",
+      "team": 7,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 193,
+      "name": "Scherpen",
+      "team": 36,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 3,
+      "name": "Hein",
+      "team": 3,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 401,
+      "name": "A.Becker",
+      "team": 14,
+      "pos": 1,
+      "price": 5.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 450,
+      "name": "Khusanov",
+      "team": 43,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 199,
+      "name": "Lamptey",
+      "team": 36,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 561,
+      "name": "Aina",
+      "team": 17,
+      "pos": 2,
+      "price": 4.8,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 442,
+      "name": "Leoni",
+      "team": 14,
+      "pos": 2,
+      "price": 4.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 443,
+      "name": "Ederson M.",
+      "team": 43,
+      "pos": 1,
+      "price": 5.3,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 202,
+      "name": "Webster",
+      "team": 36,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 723,
+      "name": "Pond",
+      "team": 39,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 457,
+      "name": "Vitor Reis",
+      "team": 43,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 722,
+      "name": "Pedro Lima",
+      "team": 39,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 45,
+      "name": "Alex Moreno",
+      "team": 7,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 46,
+      "name": "Bogarde",
+      "team": 7,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 448,
+      "name": "Akanji",
+      "team": 43,
+      "pos": 2,
+      "price": 5.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 721,
+      "name": "Meupiyou",
+      "team": 39,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 48,
+      "name": "Yasin",
+      "team": 7,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 563,
+      "name": "David Carmo",
+      "team": 17,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 413,
+      "name": "Tsimikas",
+      "team": 14,
+      "pos": 2,
+      "price": 4.8,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 87,
+      "name": "Sambo",
+      "team": 90,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 566,
+      "name": "O.Richards",
+      "team": 17,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 712,
+      "name": "Bentley",
+      "team": 39,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 711,
+      "name": "Jos\u00e9 S\u00e1",
+      "team": 39,
+      "pos": 1,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 406,
+      "name": "Frimpong",
+      "team": 14,
+      "pos": 2,
+      "price": 5.8,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 567,
+      "name": "Abbott",
+      "team": 17,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 232,
+      "name": "Penders",
+      "team": 8,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 239,
+      "name": "B.Badiashile",
+      "team": 8,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 244,
+      "name": "Anselmino",
+      "team": 8,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 486,
+      "name": "Martinez",
+      "team": 1,
+      "pos": 2,
+      "price": 4.8,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 312,
+      "name": "Patterson",
+      "team": 11,
+      "pos": 2,
+      "price": 4.4,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 266,
+      "name": "Benitez",
+      "team": 31,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 306,
+      "name": "Branthwaite",
+      "team": 11,
+      "pos": 2,
+      "price": 5.3,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 157,
+      "name": "Balcombe",
+      "team": 94,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 127,
+      "name": "Mepham",
+      "team": 91,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 631,
+      "name": "Alderete",
+      "team": 56,
+      "pos": 2,
+      "price": 4.1,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 12,
+      "name": "Kacurri",
+      "team": 3,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 534,
+      "name": "Targett",
+      "team": 4,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 300,
+      "name": "Canvot",
+      "team": 31,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 158,
+      "name": "Cox",
+      "team": 94,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 120,
+      "name": "Zabarnyi",
+      "team": 91,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 159,
+      "name": "Eyestone",
+      "team": 94,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 119,
+      "name": "Paulsen",
+      "team": 91,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 114,
+      "name": "Neto",
+      "team": 91,
+      "pos": 1,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 160,
+      "name": "Valdimarsson",
+      "team": 94,
+      "pos": 1,
+      "price": 3.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 267,
+      "name": "Matthews",
+      "team": 31,
+      "pos": 1,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 152,
+      "name": "A.Jimenez",
+      "team": 91,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 640,
+      "name": "Romero",
+      "team": 6,
+      "pos": 2,
+      "price": 5.1,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 527,
+      "name": "Livramento",
+      "team": 4,
+      "pos": 2,
+      "price": 5.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 277,
+      "name": "Kporha",
+      "team": 31,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 276,
+      "name": "Holding",
+      "team": 31,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 275,
+      "name": "Clyne",
+      "team": 31,
+      "pos": 2,
+      "price": 3.9,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 274,
+      "name": "Chadi Riad",
+      "team": 31,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 589,
+      "name": "Cuiabano",
+      "team": 17,
+      "pos": 2,
+      "price": 4.5,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 596,
+      "name": "Alese",
+      "team": 56,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    },
+    {
+      "id": 598,
+      "name": "Cirkin",
+      "team": 56,
+      "pos": 2,
+      "price": 4.0,
+      "proj": 0.7920792079207921
+    }
+  ]
+}
